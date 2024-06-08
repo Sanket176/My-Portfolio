@@ -22,7 +22,7 @@ const NavBar = () => {
                 <li><a href="#about">About</a></li>
                 <li><a href="#Experience">Experience</a></li>
                 <li><a href="#Projects">Projects</a></li>
-                <li><a href="#Contacts">Contacts</a></li>
+                <li><a href="#Contact">Contacts</a></li>
             </ul>
         </div>
     </nav>
