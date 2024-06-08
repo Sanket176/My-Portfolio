@@ -4,7 +4,7 @@ import styles from './About.module.css'
 
 const About = () => {
   return (
-    <section className={styles.conatiner}>
+    <section className={styles.container} id='about'>
         <h2 className={styles.title}>About</h2>
 
         <div className={styles.content}>
@@ -20,14 +20,14 @@ const About = () => {
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/serverIcon.png")} alt="Cursor Img"/>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Backend Developer</h3>
                         <p>I'm a frontend developer with Experience in building responsive and optimised sites</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/uiIcon.png")} alt="Cursor Img"/>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>UI Developer</h3>
                         <p>I'm a frontend developer with Experience in building responsive and optimised sites</p>
                     </div>
                 </li>
