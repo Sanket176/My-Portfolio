@@ -46,6 +46,10 @@
     height: 120px;
 }
 
+.skillImageContainer:hover {
+    transform: scale(1.2);
+}
+
 .skillImageContainer img {
     width: 75px;
 }
@@ -75,6 +79,10 @@
         rgba(25, 55, 109, 0) 100%
     );
     padding: 24px;
+}
+
+.historyItem:hover {
+    transform: scale(1.2);
 }
 
 .historyItem img{
