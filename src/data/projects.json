@@ -1,26 +1,42 @@
 [
   {
-    "title": "Project A",
+    "title": "Ecommerce WebApp",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/Ecommerce_2023"
   },
   {
-    "title": "Project B",
+    "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/My-Portfolio"
   },
   {
-    "title": "Project C",
+    "title": "Calculator",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/Calculator---3-Themes"
+  },
+  {
+    "title": "YouTube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sanket176/Youtube-Clone-2.0"
+  },
+  {
+    "title": "YouTube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sanket176/Youtube-Clone-2.0"
   }
 ]

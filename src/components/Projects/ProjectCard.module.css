@@ -9,7 +9,7 @@
     );
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
-    max-width: 345px;
+    width: 345px;
 }
 
 .container:hover {
@@ -42,11 +42,11 @@
 }
 
 .skill {
-    font-size: 25px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 300;
     border-radius: 100px;
     background: var(--color-dark);
-    padding: 2px 22px;
+    padding: 2px 15px;
 }
 
 .links {
