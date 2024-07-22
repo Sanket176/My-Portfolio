@@ -4,7 +4,7 @@ import { getImageUrl } from '../../utils'
 
 const Contact = () => {
   return (
-    <footer id='#Contact' className={styles.container}>
+    <footer id='Contact' className={styles.container}>
         <div className={styles.text}>
             <h2>Contact</h2>
             <p>Feel free to reach out</p>

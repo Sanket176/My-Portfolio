@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Rest API",
+    "imageSrc": "skills/rest-api-icon.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +26,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/icons8-postman-api-75.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/icons8-github-75.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/icons8-docker-75.png"
   }
 ]

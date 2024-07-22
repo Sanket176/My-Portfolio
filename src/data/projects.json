@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
+    "title": "Ecommerce WebApp",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "A MERN stack Ecommerce webapp, implementing filers, searchabr and Payment Gateways",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/Ecommerce_2023"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio (1).png",
+    "description": "A React Portfolio Website, describing my skills , experience and personal projects.",
+    "skills": ["React","Modular CSS","HTML"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/My-Portfolio"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "YouTube Clone",
+    "imageSrc": "projects/youtube (2).png",
+    "description": "A Video streaming app with categories, using React Player, Rapid API and Material UI.",
+    "skills": ["React", "MUI", "Rapid API"],
+    "demo": "https://youtube-clone-2-0-phi.vercel.app/",
+    "source": "https://github.com/Sanket176/Youtube-Clone-2.0"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/calculator (1).png",
+    "description": "A simple calculator created using Vanilla Javascript, HTML and CSS.",
+    "skills": ["HTML", "CSS", "Vanilla JS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sanket176/Calculator---3-Themes"
   }
 ]

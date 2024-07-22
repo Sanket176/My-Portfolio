@@ -17,13 +17,13 @@ const About = () => {
                         <p>I'm a frontend developer with Experience in building responsive and optimised sites</p>
                     </div>
                 </li>
-                <li className={styles.aboutItem}>
+                {/* <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/serverIcon.png")} alt="Cursor Img"/>
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
                         <p>I'm a frontend developer with Experience in building responsive and optimised sites</p>
                     </div>
-                </li>
+                </li> */}
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/uiIcon.png")} alt="Cursor Img"/>
                     <div className={styles.aboutItemText}>
