@@ -9,9 +9,9 @@
   },
   {
     "title": "Portfolio Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/portfolio (1).png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React","CSS"],
+    "skills": ["React","Modular CSS","HTML"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Sanket176/My-Portfolio"
   },
@@ -25,7 +25,7 @@
   },
   {
     "title": "YouTube Clone",
-    "imageSrc": "projects/ytclone.png",
+    "imageSrc": "projects/youtube (2).png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "MUI", "Rapid API"],
     "demo": "https://youtube-clone-2-0-phi.vercel.app/",
