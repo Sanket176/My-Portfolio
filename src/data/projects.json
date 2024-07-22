@@ -11,7 +11,7 @@
     "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React","CSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Sanket176/My-Portfolio"
   },
@@ -19,24 +19,16 @@
     "title": "Calculator",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["HTML", "CSS", "Vanilla JS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Sanket176/Calculator---3-Themes"
   },
   {
     "title": "YouTube Clone",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/ytclone.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Sanket176/Youtube-Clone-2.0"
-  },
-  {
-    "title": "YouTube Clone",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "MUI", "Rapid API"],
+    "demo": "https://youtube-clone-2-0-phi.vercel.app/",
     "source": "https://github.com/Sanket176/Youtube-Clone-2.0"
   }
 ]
