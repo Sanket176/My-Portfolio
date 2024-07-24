@@ -1,10 +1,10 @@
 [
   {
     "title": "Ecommerce WebApp",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Ecommerce_2 (1).png",
     "description": "A MERN stack Ecommerce webapp, implementing filers, searchabr and Payment Gateways",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://ecommerce-2023-ami1.onrender.com/",
     "source": "https://github.com/Sanket176/Ecommerce_2023"
   },
   {
